@@ -7,8 +7,8 @@ __pycache__/
 *.so
 **.csv
 ratings.csv
-ratings.*
-**ratings**
+
+
 config.py
 config**
 **config**
