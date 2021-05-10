@@ -9,6 +9,9 @@ __pycache__/
 ratings.csv
 ratings.*
 **ratings**
+config.py
+config**
+**config**
 
 # Distribution / packaging
 .Python
